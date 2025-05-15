@@ -37,7 +37,7 @@ const mockGallery = [
   {
     id: '5',
     imageUrl: 'https://i.imgflip.com/43a45p.png',
-    captions: ['Wait, it's all memes?', 'Always has been'],
+    captions: ["Wait, it's all memes?", 'Always has been'],
     creator: 'astro_memer',
     likes: 675
   },
